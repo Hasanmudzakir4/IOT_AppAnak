@@ -1,0 +1,7 @@
+{
+  "name": "AppChild",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
